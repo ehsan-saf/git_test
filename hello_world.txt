@@ -1,0 +1,4 @@
+Hello World! 
+I'm learning how to use git, and it's awesome 
+No wonder why it's so popular 
+Git is so fun
